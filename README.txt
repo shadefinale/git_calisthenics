@@ -8,4 +8,4 @@ HELLO WORLD!
 
 "Git who?"
 
-"Git this joke over with."
+"Git ON WITH THE ASSIGNMENT!"
